@@ -1,0 +1,24 @@
+{
+  "name": "greeninnova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuttasakcom/greeninnova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuttasakcom/greeninnova/issues"
+  },
+  "homepage": "https://github.com/yuttasakcom/greeninnova#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
