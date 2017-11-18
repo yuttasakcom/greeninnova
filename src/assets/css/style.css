@@ -76,13 +76,13 @@ NOTE: This is main stylesheet of the template.
  }
  
  .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a.theme-color {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  @media only screen and (max-width: 767px) {
      .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a.theme-color {
          background: transparent;
-         color: #ffc814;
+         color: #00f175;
      }
      .custom-navbar .logo a.theme-color{
          color: #444;
@@ -91,15 +91,15 @@ NOTE: This is main stylesheet of the template.
 .welcome-area .home-arrow a.theme-color,
  .welcome-text h1.theme-color,
  .single-stat h2.theme-color {
-     color: #ffc814;
+     color: #00f175;
  }
  .about-text span.theme-color {
-     color: #ffc814;
+     color: #00f175;
  }
  btn.theme-color,
  a.btn.theme-color,
  .btn {
-     background: #ffc814;
+     background: #00f175;
      color: #222;
  }
  .btn.theme-color.btn-effect.disabled:hover,
@@ -110,21 +110,21 @@ NOTE: This is main stylesheet of the template.
  .btn:hover {
      color: #222;
      background: transparent;
-     border: 2px solid #ffc814;
+     border: 2px solid #00f175;
  }
  a.btn.quotes-btn:hover {
      color: #fff;
-     border: 2px solid #ffc814;
+     border: 2px solid #00f175;
  }
  .single-service.theme-color:hover {
-     border: 1px solid #ffc814;
+     border: 1px solid #00f175;
  }
  ul.work-list li.theme-color.active {
      color: #222;
-     background: #ffc814;
+     background: #00f175;
  }
  .hover-content a.theme-color {
-     background: #ffc814;
+     background: #00f175;
      color: #222;
  }
  .hover-content a.theme-color:hover {
@@ -132,37 +132,37 @@ NOTE: This is main stylesheet of the template.
      color: #222;
  }
  .testimonial-area .owl-dots div.active {
-     background: #ffc814;
+     background: #00f175;
  }
  .btn.btn-effect.disabled {
      color: #222;
-     background-color: #ffc814;
+     background-color: #00f175;
  }
  .single-address.theme-color i.fa {
-     color: #ffc814;
+     color: #00f175;
  }
  .facebook-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .twitter-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .linkedin-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .google-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .skype-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .youtube-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  /*========================
@@ -217,7 +217,7 @@ NOTE: This is main stylesheet of the template.
      background-color: #304fff;
  }
  .color_panel_box span.yellow_color {
-     background-color: #ffc814;
+     background-color: #00f175;
  }
  .color_panel_box span.purple_color {
      background-color: #663399;
@@ -232,13 +232,13 @@ NOTE: This is main stylesheet of the template.
  
  
  .yellow_color_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a.theme-color {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  @media only screen and (max-width: 767px) {
      .yellow_color_theme .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li.active a.theme-color {
          background: transparent;
-         color: #ffc814;
+         color: #00f175;
      }
     .yellow_color_theme .custom-navbar .logo a.theme-color{
          color: #444;
@@ -248,15 +248,15 @@ NOTE: This is main stylesheet of the template.
  .yellow_color_theme .welcome-area .home-arrow a.theme-color,
  .yellow_color_theme .welcome-text h1.theme-color,
  .yellow_color_theme .single-stat h2.theme-color {
-     color: #ffc814;
+     color: #00f175;
  }
  .yellow_color_theme .about-text span.theme-color {
-     color: #ffc814;
+     color: #00f175;
  }
  .yellow_color_theme btn.theme-color,
  .yellow_color_theme a.btn.theme-color,
  .yellow_color_theme .btn {
-     background: #ffc814;
+     background: #00f175;
      color: #222;
  }
  .yellow_color_theme .btn.theme-color.btn-effect.disabled:hover,
@@ -267,21 +267,21 @@ NOTE: This is main stylesheet of the template.
  .yellow_color_theme .btn:hover {
      color: #222;
      background: transparent;
-     border: 2px solid #ffc814;
+     border: 2px solid #00f175;
  }
  .yellow_color_theme a.btn.quotes-btn:hover {
      color: #fff;
-     border: 2px solid #ffc814;
+     border: 2px solid #00f175;
  }
  .yellow_color_theme .single-service.theme-color:hover {
-     border: 1px solid #ffc814;
+     border: 1px solid #00f175;
  }
  .yellow_color_theme ul.work-list li.theme-color.active {
      color: #222;
-     background: #ffc814;
+     background: #00f175;
  }
  .yellow_color_theme .hover-content a.theme-color {
-     background: #ffc814;
+     background: #00f175;
      color: #222;
  }
  .yellow_color_theme .hover-content a.theme-color:hover {
@@ -289,37 +289,37 @@ NOTE: This is main stylesheet of the template.
      color: #222;
  }
  .yellow_color_theme .testimonial-area .owl-dots div.active {
-     background: #ffc814;
+     background: #00f175;
  }
  .yellow_color_theme .btn.btn-effect.disabled {
      color: #222;
-     background-color: #ffc814;
+     background-color: #00f175;
  }
  .yellow_color_theme .single-address.theme-color i.fa {
-     color: #ffc814;
+     color: #00f175;
  }
  .yellow_color_theme .facebook-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .yellow_color_theme .twitter-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .yellow_color_theme .linkedin-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .yellow_color_theme .google-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .yellow_color_theme .skype-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  .yellow_color_theme .youtube-color.theme-color:hover {
-     background-color: #ffc814;
+     background-color: #00f175;
      color: #222;
  }
  /*======= end yellow =========*/
