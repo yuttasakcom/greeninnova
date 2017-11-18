@@ -127,7 +127,7 @@ NOTE: This is the custom jQuery file for the template
 
         $(function() {
             element.typed({
-                strings: ["Home Biogas.", "Green Innovation.",],
+                strings: ["Home Biogas.", "Greeninnova.",],
                 typeSpeed: 100,
                 loop: true,
             });
